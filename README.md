@@ -271,4 +271,4 @@ This repository serves as the official landing page for Arduino IDE. The softwar
 **Get the most recent version of Arduino IDE today!**
 
 ---
-**Last updated:** 2026-10-17 11:52:36 UTC
+**Last updated:** 2026-10-17 14:42:28 UTC
